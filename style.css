@@ -1,0 +1,288 @@
+
+h1 {
+    text-align: center;
+    color: burlywood;
+}
+
+.content {
+    color: blueviolet;
+}
+
+table {
+    color: rgb(155, 155, 196);
+}
+
+#parrent {
+    width: 500px;
+    border: 2px solid wheat;
+}
+
+#child {
+    height: 250px;
+    border: 3px dashed peru;
+    background-color: cadetblue;
+    margin: 20px;
+    background-color: rgb(4, 66, 68);
+}
+
+#vig {
+    height: 170px;
+    border: 5px double rebeccapurple;
+    margin: 50px;
+    background-color: darkblue;
+}
+
+.block {
+    display: block;
+    border: 5px solid red;
+}
+
+.inline {
+    display: inline;
+    border: 5px solid rgb(0, 0, 255);
+}
+
+
+
+.flex-start {
+display: flex;
+width: 330px;
+height: auto;
+justify-content: flex-start;
+background-color: aqua;
+border: solid;
+}
+
+.child1 {
+    display: flex;
+    background-color: yellow;
+    border: solid;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+.child2 {
+    display: flex;
+    background-color: rgb(175, 28, 151);
+    border: solid;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+.child3 {
+    display: flex;
+    background-color: rgb(20, 151, 49);
+    border: solid;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+
+.flex-end {
+display: flex;
+width: 330px;
+height: auto;
+justify-content: flex-end;
+background-color: aqua;
+border: solid;
+}
+
+.child4 {
+    display: flex;
+    background-color: yellow;
+    border: solid;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+.child5 {
+    display: flex;
+    background-color: rgb(175, 28, 151);
+    border: solid;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+
+.child6 {
+    display: flex;
+    background-color:rgb(20, 151, 49);
+    border: solid;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+.centre {
+display: flex;
+width: 330px;
+height: auto;
+justify-content: center;
+background-color: aqua;
+border: solid;
+}
+
+.child7 {
+    display: flex;
+    background-color: yellow;
+    border: solid;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+.child8 {
+    display: flex;
+    background-color: rgb(175, 28, 151);
+    border: solid;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+.child9 {
+    display: flex;
+    background-color: rgb(20, 151, 49);
+    border: solid;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+.space-around {
+display: flex;
+width: 330px;
+height: auto;
+justify-content: space-around;
+background-color: aqua;
+border: solid;
+}
+
+
+.child10 {
+    display: flex;
+    background-color: yellow;
+    border: solid;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+.child11 {
+    display: flex;
+    background-color: rgb(175, 28, 151);
+    border: solid;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+.child12 {
+    display: flex;
+    background-color: rgb(20, 151, 49);
+    border: solid;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+
+.space-between {
+display: flex;
+width: 330px;
+height: auto;
+justify-content: space-between;
+background-color: aqua;
+border: solid;
+}
+
+
+.child13 {
+    display: flex;
+    background-color: yellow;
+    border: solid;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+
+.child14 {
+    display: flex;
+    background-color: rgb(175, 28, 151);
+    border: solid;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+
+.child15 {
+    display: flex;
+    background-color: rgb(20, 151, 49);
+    border: solid;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+
+.space-evenly {
+display: flex;
+width: 330px;
+height: auto;
+justify-content: space-evenly;
+background-color: aqua;
+border: solid;
+}
+
+
+.child16 {
+    display: flex;
+    background-color: yellow;
+    border: solid;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+.child17 {
+    display: flex;
+    background-color: rgb(175, 28, 151);
+    border: solid;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+.child18 {
+    display: flex;
+    background-color: rgb(20, 151, 49);
+    border: solid;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
