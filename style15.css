@@ -1,0 +1,82 @@
+#parent {
+    display: flex;
+    width: 450px;
+    height: 350px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;
+    border: 1px solid red;
+    margin-left: 750px;
+}
+
+#chaild {
+    width: 80px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+#chaild2 {
+    width: 80px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+#chaild3 {
+    width: 80px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+#chaild4 {
+    width: 80px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+#chaild5 {
+    width: 80px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+#parent2 {
+    display: flex;
+    width: 450px;
+    height: 350px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    border: 1px solid red;
+    margin-left: 750px;
+}
+
+
+#chaild6 {
+    width: 80px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+#chaild7 {
+    width: 80px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+#chaild8 {
+    width: 80px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+#chaild9 {
+    width: 80px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+#chaild10 {
+    width: 80px;
+    height: 60px;
+    border: 1px solid green;
+}
