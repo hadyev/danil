@@ -1,0 +1,72 @@
+#parent {
+	position: relative;
+	width: 550px;
+	height: 350px;
+	margin: 70px auto;
+	border: 1px solid green;
+}
+
+#child {
+	position: absolute;
+    top: -20px;
+	left: -100px;
+	
+	width: 50px;
+	height: 50px;
+	border: 1px solid red;
+}
+
+#child2 {
+	position: absolute;
+    top: -20px;
+	right: -100px;
+	
+	width: 50px;
+	height: 50px;
+	border: 1px solid red;
+}
+
+
+#elem {
+	position: absolute;
+	top: 550px;
+    left: 680px;
+	width: 550px;
+	height: 350px;
+	border: 1px solid rgb(19, 206, 190);
+}
+
+
+#w {
+    position: relative;
+    width: 500px;
+    margin: 20px auto;
+    padding: 30px;
+    border: 1px solid green;
+}
+
+p {
+    text-align: justify;
+    margin-bottom: 15px;
+}
+
+#elem1 {
+    position: relative;
+    top: 110px;
+	left: 580px;
+	
+	width: 50px;
+	height: 50px;
+	border: 1px solid red;
+}
+
+
+#elem2 {
+    position: relative;
+    top: 50px;
+	left: 1250px;
+	
+	width: 50px;
+	height: 50px;
+	border: 1px solid red;
+}

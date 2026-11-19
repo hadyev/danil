@@ -1,0 +1,9 @@
+#elem {
+	position: absolute;
+	top:    30px;
+	right:  100px;
+	bottom: 100px;
+	left:   100px;
+	
+	border: 1px solid rgb(20, 100, 20);
+}

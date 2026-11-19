@@ -1,0 +1,101 @@
+.parent {
+	display: flex;
+	flex-direction: row;
+    justify-content: flex-end;
+	width: 410px;
+	height: 210px;
+	border: 1px solid red;
+    margin: 20px;
+    margin-left: 730px;
+}
+.child {
+	width: 60px;
+	height: 60px;
+	border: 1px solid green;
+}
+
+
+#parent2 {
+    display: flex;
+	flex-direction: column;
+    justify-content: flex-end;
+	width: 410px;
+	height: 210px;
+    margin-top: 20px;
+	border: 1px solid red;
+    margin: 20px;
+    margin-left: 730px;
+}
+
+#child {
+    width: 60px;
+	height: 60px;
+	border: 1px solid green;
+}
+
+#child2 {
+    width: 60px;
+	height: 60px;
+	border: 1px solid green;
+}
+
+#child3 {
+    width: 60px;
+	height: 60px;
+	border: 1px solid green;
+}
+
+#child4 {
+    width: 60px;
+	height: 60px;
+	border: 1px solid green;
+}
+
+#child5 {
+    width: 60px;
+	height: 60px;
+	border: 1px solid green;
+}
+
+
+#parent3 {
+    display: flex;
+	flex-direction: column-reverse;
+    justify-content: flex-end;
+	width: 410px;
+	height: 210px;
+    margin-top: 20px;
+	border: 1px solid red;
+    margin: 20px;
+    margin-left: 730px;
+}
+
+#child6 {
+    width: 60px;
+	height: 60px;
+	border: 1px solid green;
+}
+
+#child7 {
+    width: 60px;
+	height: 60px;
+	border: 1px solid green;
+}
+
+#child8 {
+    width: 60px;
+	height: 60px;
+	border: 1px solid green;
+}
+
+#child9 {
+    width: 60px;
+	height: 60px;
+	border: 1px solid green;
+}
+
+#child10 {
+    width: 60px;
+	height: 60px;
+	border: 1px solid green;
+}
