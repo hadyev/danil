@@ -1,0 +1,9 @@
+div {
+	width: 500px;
+    height: 199px;
+	border: 1px solid red;
+	text-align: justify;
+}
+img {
+	float: left;
+}

@@ -1,0 +1,14 @@
+div {
+    width: 750px;
+    height: 300px;
+	border: 1px solid red;
+	text-align: justify;
+    margin-left: 500px;
+}
+p {
+	border: 1px solid green;
+}
+img {
+	float: right;
+	opacity: 0.5;
+}

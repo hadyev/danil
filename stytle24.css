@@ -1,0 +1,43 @@
+#parent {
+    display: flex;
+    width: 450px;
+    height: 350px;
+    flex-direction: column;
+    align-items: stretch;
+    border: 1px solid red;
+    margin-left: 750px;
+}
+
+#chaild {
+    width: 450px;
+    height: 40px;
+    border: 1px solid green;
+}
+
+#chaild2 {
+    width: 450px;
+    height: 40px;
+    border: 1px solid green;
+    margin-top: 20px;
+}
+
+#chaild3 {
+    width: 450px;
+    height: 40px;
+    border: 1px solid green;
+    margin-top: 50px;
+}
+
+#chaild4 {
+    width: 450px;
+    height: 40px;
+    border: 1px solid green;
+    margin-top: 80px;    
+}
+
+#chaild5 {
+    width: 450px;
+    height: 40px;
+    border: 1px solid green;
+    margin-top: 70px;
+}

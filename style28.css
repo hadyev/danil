@@ -1,0 +1,14 @@
+.text-block {
+    width: 500px;
+    text-align: justify;
+}
+
+.l {
+    float: left;
+    margin-right: 10px;
+}
+
+.r {
+    float: right;
+    margin-left: 10px;
+}

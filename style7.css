@@ -1,0 +1,20 @@
+#head {
+    background-color: rgb(49, 146, 25);
+    border: solid rgb(27, 75, 27);
+    color: white;
+    text-align: center;
+}
+
+#block {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    height: 620px;
+    border: 1px solid rgb(23, 58, 23);
+    padding: 20px;
+}
+
+p {
+    text-align: justify;
+}

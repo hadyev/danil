@@ -1,0 +1,35 @@
+#elem1 {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #FF8888;
+}
+
+#elem2 {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #7E89EB;
+}
+
+#elem3 {
+    position: absolute;
+    top: 150px;
+    left: 150px;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #4DEE99;
+}
+
+p {
+	position: absolute;
+	margin-top: 265px;
+	left: 25px;
+}
